@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:acrylic/r_shovel",
+  "textures": {
+    "layer0": "minecraft:item/wooden_shovel"
+  }
+}
